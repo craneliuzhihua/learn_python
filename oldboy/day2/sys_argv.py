@@ -1,4 +1,4 @@
-#Author craneliu
+#Author craneliu 
 #本脚本实现通过输入参数来决定脚本的输出内容
 #--version 输出版本信息
 #--help 输出帮助信息
